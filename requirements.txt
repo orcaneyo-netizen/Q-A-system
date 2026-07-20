@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langsmith
+chromadb
+sentence-transformers
+pypdf==4.2.0
+pillow==12.3.0
+numpy>=2.3.4
+
+streamlit
+python-dotenv==1.0.1
+pydantic-settings==2.5.2
+rank-bm25==0.2.2
